@@ -4,6 +4,7 @@ This repository is preconfigured to use the git-review plugin. More information 
 https://pypi.python.org/pypi/git-review
 
  * **Note:** Sort device listings in cm-build-targets and devices.json alphanumerically by codename.  
+
 1. Edit cm-build-targets with your device codename and branch.  
 2. Add a PNG 109x124 image of your device to getcm-devices/static/img directory.  
 3. Add your device's information to devices.json.  
