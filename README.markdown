@@ -1,5 +1,5 @@
 # OpenMovieDatabase.bundle
 
-  * Note
-OpenMovieDatabase Metadata Agent for Plex Media Server  
++Note  
+1.OpenMovieDatabase Metadata Agent for Plex Media Server  
 gsfg  
